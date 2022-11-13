@@ -2,14 +2,14 @@
   "name": "Command-project-JS",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://jekiekolya.github.io/Command-project-JS",
+  "homepage": "https://Mazurok-M.github.io/Command-project-JS",
   "scripts": {
     "start": "parcel src/*.html --no-cache",
     "build": "parcel build src/*.html --public-url /Command-project-JS/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jekiekolya/Command-project-JS.git"
+    "url": "git+https://github.com/Mazurok-M/Command-project-JS.git"
   },
   "keywords": [],
   "author": "Berezhniuk Mukola <bermukola@gmail.com>",
